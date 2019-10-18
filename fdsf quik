@@ -3,7 +3,7 @@ quickSort(arr[], low, high)
 {
     if (low < high)
     {
-        /* pi is partitioning index, arr[pi] is now
+        /* pi is partitioning index, arr[pi] is
            at right place */
         pi = partition(arr, low, high);
 
