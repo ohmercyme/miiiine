@@ -1,5 +1,5 @@
 /* low  --> Starting index,  high  --> Ending index */
-quickSort(arr[], low, high)
+quickSort(arr[], low, hiigh)
 {
     if (low < high)
     {
